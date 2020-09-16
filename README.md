@@ -1,6 +1,6 @@
-# ROS_Project_1
+# BUILD_MY_World
 
-Robotics Software Engineer ND Udacity course project
+Robotics Software Engineer ND course project
 Creating Gazebo environment and importing robot chassis and linking with its joints. Creating plugins to print messages while running gazebo environmnet .
 
 Running program:
